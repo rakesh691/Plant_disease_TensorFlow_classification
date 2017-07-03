@@ -1,0 +1,38 @@
+2 narrow brown spot of rice
+13 common root rot in wheat
+31 peacock spot in olives
+37 pseudocercospora leaf spot in neem
+12 sooty head molds of wheat
+1 rice blast
+17 crown rot of peanut
+29 frogeye leaf spot in soybean
+16 botrytis grey mold of chickpea
+30 soybean mosaic virus in soybean
+33 xylella fastidiosa bacteria in olives
+24 phyllody disease in peppers
+36 colletotrichum leaf spot and blight in neem
+40 downy mildew in tulsi
+6 powdery mildew barley 
+22 cercospora leaf spot in peppers
+25 basal wilt in peppers
+9 stem rust in oats
+11 loose smut of wheat
+4 leaf rust barley
+10 barley yellow dwarf virus in oats
+27 bacterial pustule in soybean
+26 soybean rust
+32 anthracnose in olives
+38 fusarium wilt disease in tulsi
+18 early and late leaf spots in peanut
+34 pink eye in potatoes
+21 early blight in tomato
+3 bacterial kernel blight barley 
+28 downy mildew in soybean
+20 anthracnose fruit rot in tomato
+14 sclerotinia blight of chickpea
+39 basil shoot blight in tulsi
+8 septoria avenae blotch in oats
+19 bud necrosis virus in peanut
+7 covered smut ustilago hordei barley
+23 southern blight in peppers
+5 net blotch barley 
